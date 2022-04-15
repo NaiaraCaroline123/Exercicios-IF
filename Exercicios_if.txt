@@ -18,7 +18,8 @@ do que 5 mostre REPROVADO.
 
 6) Desenvolva um algoritmo que leia 3 valores inteiros e os apresente em ordem crescente.
 
-7) Desenvolva um algoritmo que leia 3 valores inteiros e os apresente em ordem decrescente
+7) Desenvolva um algoritmo que leia 3 valores inteiros e os
+  apresente em ordem decrescente
 
 8) Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes 
 categorias:

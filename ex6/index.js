@@ -4,8 +4,8 @@ var num1 = parseInt(prompt("Informe o primeiro numero: "))
 var num2 = parseInt(prompt("Informe o segundo numero: "))
 var num3 = parseInt(prompt("Informe o terceiro numero: "))
 
-if(num1 > num2 && num1 > num3){
-    if(num2 > num3){
+if(num1 > num2 && num1 > num3){  
+    if(num2 > num3){ 
         alert(`Os numeros em ordem crescente são: ${num3}, ${num2}, ${num1}`)
     } else {
         alert(`Os numeros em ordem crescente são: ${num2}, ${num3}, ${num1}`)
